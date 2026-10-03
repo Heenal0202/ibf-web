@@ -1,0 +1,111 @@
+{
+  "applications": [
+    {
+      "_id": "app_1790629986786",
+      "fullName": "Heenal Patel",
+      "email": "heenal@bennett.edu.in",
+      "year": "2nd Year",
+      "track": "ZK Proofs & Cryptography",
+      "handle": "github.com/heenal",
+      "notes": "",
+      "status": "Pending",
+      "createdAt": "2026-09-28T21:13:06.786Z"
+    },
+    {
+      "_id": "app_001",
+      "fullName": "Aarav Gupta",
+      "email": "e23cse101@bennett.edu.in",
+      "year": "2nd Year",
+      "track": "Smart Contracts & EVM",
+      "handle": "github.com/aarav-sol",
+      "status": "Pending",
+      "notes": "Built automated staking vault on Sepolia",
+      "createdAt": "2026-03-15T10:30:00.000Z"
+    },
+    {
+      "_id": "app_002",
+      "fullName": "Riya Sen",
+      "email": "e24cse204@bennett.edu.in",
+      "year": "1st Year",
+      "track": "ZK Proofs & Cryptography",
+      "handle": "github.com/riya-zk",
+      "status": "Pending",
+      "notes": "Circom circuit experimenter, interested in Semaphore protocol",
+      "createdAt": "2026-03-18T14:15:00.000Z"
+    },
+    {
+      "_id": "app_003",
+      "fullName": "Devansh Verma",
+      "email": "e22cse309@bennett.edu.in",
+      "year": "3rd Year",
+      "track": "Rust & Solana / Cosmos",
+      "handle": "github.com/devansh-rust",
+      "status": "Accepted",
+      "notes": "Anchor framework experience and high TPS benchmarks",
+      "createdAt": "2026-02-28T09:00:00.000Z"
+    },
+    {
+      "_id": "app_004",
+      "fullName": "Priya Sharma",
+      "email": "e23cse412@bennett.edu.in",
+      "year": "2nd Year",
+      "track": "Web3 Frontend & UX",
+      "handle": "github.com/priyaux",
+      "status": "Pending",
+      "notes": "Ethers.js / Wagmi developer, built hackathon DeFi dashboard",
+      "createdAt": "2026-03-22T16:45:00.000Z"
+    }
+  ],
+  "members": [
+    {
+      "_id": "mem_001",
+      "fullName": "Aarav Sharma",
+      "email": "aarav.sharma@bennett.edu.in",
+      "role": "Club Lead",
+      "year": "3rd Year",
+      "track": "Smart Contracts & EVM",
+      "handle": "github.com/aarav-eth",
+      "addedAt": "2025-08-01T00:00:00.000Z"
+    },
+    {
+      "_id": "mem_002",
+      "fullName": "Rohan Patel",
+      "email": "rohan.patel@bennett.edu.in",
+      "role": "Tech Lead",
+      "year": "3rd Year",
+      "track": "Rust & Solana / Cosmos",
+      "handle": "github.com/rohan-dev",
+      "addedAt": "2025-08-01T00:00:00.000Z"
+    },
+    {
+      "_id": "mem_003",
+      "fullName": "Ananya Gupta",
+      "email": "ananya.gupta@bennett.edu.in",
+      "role": "Research Lead",
+      "year": "2nd Year",
+      "track": "ZK Proofs & Cryptography",
+      "handle": "github.com/ananya-zk",
+      "addedAt": "2025-08-01T00:00:00.000Z"
+    },
+    {
+      "_id": "mem_004",
+      "fullName": "Ishaan Verma",
+      "email": "ishaan.verma@bennett.edu.in",
+      "role": "DeFi Lead",
+      "year": "3rd Year",
+      "track": "DeFi & Tokenomics",
+      "handle": "github.com/ishaan-sol",
+      "addedAt": "2025-08-01T00:00:00.000Z"
+    },
+    {
+      "_id": "mem_005",
+      "fullName": "Sneha Mukherjee",
+      "email": "sneha.mukherjee@bennett.edu.in",
+      "role": "DevRel Lead",
+      "year": "2nd Year",
+      "track": "Web3 Frontend & UX",
+      "handle": "github.com/sneha-web3",
+      "addedAt": "2025-08-01T00:00:00.000Z"
+    }
+  ]
+}
